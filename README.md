@@ -22,7 +22,7 @@
 ## Online Markdown editor for generating Readme Files
 
 <div align="center">
-  <img alt="Demo" src="./src/Assets/markdown.png"/>
+  <img alt="Demo" src="./src/Assets/editor.png"/>
 </div>
 
 ## Features
