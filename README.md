@@ -8,7 +8,7 @@
 ## Online code editor for HTML, CSS and Javascript to discover frontend code
 
 <div align="center">
-  <img alt="Demo" src="./src/Assets/web.png"/>
+  <img alt="Demo" src="./src/Assets/home.png"/>
 </div>
 
 ### Features:
